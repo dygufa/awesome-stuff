@@ -1,5 +1,5 @@
 # awesome-stuff
-List of awesome stuff that I make use of.
+List of awesome stuff that I make use of (or at least should :p)
 
 ## Webpack
 
