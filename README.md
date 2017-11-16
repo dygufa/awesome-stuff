@@ -26,7 +26,8 @@ List of awesome stuff that I make use of (or at least should :p)
 * [react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js
 * [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
-
+* [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React. (WYSIWUG)
+* [react-universal-component](https://github.com/faceyspacey/react-universal-component) - The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 
 ## Mobx
 
