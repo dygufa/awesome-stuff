@@ -7,6 +7,8 @@ List of awesome stuff that I make use of (or at least should :p)
 * [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 * [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
+## Javascript
+* [await-to-js](https://github.com/scopsy/await-to-js) Async await wrapper for easy error handling without try-catch
 
 ## Babel
 
@@ -28,6 +30,7 @@ List of awesome stuff that I make use of (or at least should :p)
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 * [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React. (WYSIWUG)
 * [react-universal-component](https://github.com/faceyspacey/react-universal-component) - The final answer to a React Universal Component: simultaneous SSR + Code Splitting
+* [material-ui](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 
 ## Mobx
 
